@@ -1,4 +1,4 @@
-## Grupo 8 - Trabalho de Pronjeto Integrador
+## Grupo 8 - Trabalho de Projeto Integrador
 
 Equipe composta por:
 - asda
