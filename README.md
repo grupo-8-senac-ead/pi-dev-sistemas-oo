@@ -76,5 +76,5 @@
  </br>
  <h1 align="center">DIAGRAMA DE CLASSES</h1>
 <div align="center">
-      <img src="https://user-images.githubusercontent.com/78884474/211343329-a8718daf-0953-4563-83f5-20901019202f.png" width="100px"  />
+      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/90aa5e72-aec4-4373-bd29-85ad63132f63" width="600px"  />
    </div>
