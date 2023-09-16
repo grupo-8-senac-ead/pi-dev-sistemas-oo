@@ -78,3 +78,7 @@
 <div align="center">
       <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/90aa5e72-aec4-4373-bd29-85ad63132f63" width="600px"  />
    </div>
+
+ </br>
+
+ <h1 align="center">Grupo 8 - Trabalho de Projeto Integrador</h1>
