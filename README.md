@@ -13,10 +13,68 @@
 <p align="center" >Nome da escola: <b> COLÉGIO FUTURO BRILHANTE</b></p>
 
 <h2 > Introdução </h2>
-<p>Segunda parte do projeto integrador, desenvolvimento do prototipo do sistema escoalr de cadastro</p>
+<p>Segunda parte do projeto integrador, desenvolvimento do prototipo do sistema escolar de cadastro</p>
 </br>
 
 <p ><b> PROTOTIPOS : </b></p>
  <a href="https://www.figma.com/file/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR---ESCOLA?type=design&node-id=0%3A1&mode=design&t=aClYvUOCDbm7kTYe-1">FIGMA TELAS</a>
  </br>
  <a href="https://www.figma.com/file/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR---ESCOLA?type=design&node-id=0%3A1&mode=design&t=aClYvUOCDbm7kTYe-1](https://www.figma.com/proto/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR---ESCOLA?type=design&node-id=56-7&t=aClYvUOCDbm7kTYe-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=56%3A7&show-proto-sidebar=1)https://www.figma.com/proto/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR---ESCOLA?type=design&node-id=56-7&t=aClYvUOCDbm7kTYe-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=56%3A7&show-proto-sidebar=1](https://www.figma.com/proto/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR-ESCOLA?type=design&node-id=0-1&t=aClYvUOCDbm7kTYe-0&scaling=scale-down&starting-point-node-id=56%3A7&show-proto-sidebar=1)https://www.figma.com/proto/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR-ESCOLA?type=design&node-id=0-1&t=aClYvUOCDbm7kTYe-0&scaling=scale-down&starting-point-node-id=56%3A7&show-proto-sidebar=1](https://www.figma.com/proto/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR---ESCOLA?type=design&node-id=56-7&t=EMU2ZT2LlXvX7Lf3-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=56%3A7&show-proto-sidebar=1)https://www.figma.com/proto/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR---ESCOLA?type=design&node-id=56-7&t=EMU2ZT2LlXvX7Lf3-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=56%3A7&show-proto-sidebar=1](https://www.figma.com/proto/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR---ESCOLA?type=design&node-id=56-7&t=0zgLIPTuxoZP0LzV-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=56%3A7&show-proto-sidebar=1&mode=design)https://www.figma.com/proto/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR---ESCOLA?type=design&node-id=56-7&t=0zgLIPTuxoZP0LzV-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=56%3A7&show-proto-sidebar=1&mode=design">FIGMA NAVEGAVEL</a>
+</br>
+<h1 align="center">DIAGRAMA DE CASO DE USO</h1>
+
+
+<div align="center">
+    <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/60b5e371-6bbb-464f-8c5d-2494a9c3454d"width="600px"  />
+</div>
+   <p>
+       
+<h3>Descrição dos cenários de caso de uso.</h3>	
+    	
+    •	Cenário cadastro de usuário:
+    1.	O usuário seleciona a opção de cadastrar uma nova pessoa física.
+    2.	O sistema exibe o formulário de cadastro com os campos necessários.
+    3.	O usuário preenche os dados da pessoa física (nome, CPF, endereço, RG, telefone, e-mail e sexo).
+    4.	O usuário confirma o cadastro.
+    5.	O sistema valida os dados inseridos e registra a nova pessoa física no sistema.
+    6.	O sistema exibe uma mensagem de sucesso informando que o cadastro foi realizado.
+    
+<h3>Cenários Alternativos:</h3>
+ 
+        A1: Caso algum campo obrigatório não seja preenchido corretamente:
+        O sistema exibe uma mensagem de erro indicando os campos inválidos.
+        O usuário corrige os campos inválidos e tenta novamente o cadastro.
+       
+        A2: Caso o usuário decida cancelar o cadastro:
+        O usuário seleciona a opção de cancelar o cadastro.
+        O sistema descarta as informações inseridas e retorna à tela anterior.
+        Pré-condições: O usuário deve estar autenticado no sistema.
+        Pós-condições: A pessoa física é cadastrada com sucesso no sistema.
+    
+<h3>Cenário primeira aula:</h3>
+
+    1.	Professor disponibiliza material da aula para os alunos.
+    2.	Pessoa física faz o pagamento da mensalidade do aluno.
+    3.	Pessoa do jurídico faz recebimento do pagamento.
+    4.	Aluno compra material do fornecedor para aula.
+    5.	Professor ministra aula para aluno.
+    6.	Aluno assiste a aula do professor.</p>
+
+<h3>Cenários Alternativos:</h3>
+ 
+    A1: Caso aluno não tenha o material:
+    O professor disponibiliza o conteúdo da aula sem a prática.
+    Aluno assiste aula sem fazer a prática.
+    Professor marca outra data para o aluno fazer a prática.7
+
+    A2: Caso aluno não tenha conteúdo da aula disponibilizado
+    Aluno deve entrar em contato com o professor, explicando a falta de disponibilidade.
+    Professor deve disponibilizar conteúdo para aula até um dia antes da aula. 
+    Pré-condição: Aluno deve ter a mensalidade paga para assistir aula.
+    Pós-condição: Aluno adquiri conhecimento para prova.
+
+ </br>
+ <h1 align="center">DIAGRAMA DE CLASSES</h1>
+<div align="center">
+      <img src="https://user-images.githubusercontent.com/78884474/211343329-a8718daf-0953-4563-83f5-20901019202f.png" width="100px"  />
+   </div>
