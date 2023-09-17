@@ -146,5 +146,13 @@
       <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/7e44af3b-5452-4da0-90f9-1c05dab60a70" width="1080px"  />
    </div>
 
+ </br>
+ <h2 align="center"> GESTÃO 🏫</h2>
+ <p align="center">Ao FAZER login na plataforma, o COLABORADOR poderá acessar aos registros de sala e alunos, professores e fornecedores, pode tambem cadasatrar novos fornecedores, professores e alunos no colegio FUTURO BRILHANTE.</p>
+</br>
 
-   
+ </br>
+<h3> LOGIN </h3>
+<div align="center">
+      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/e3db215e-5ad0-4d3a-b4cf-7f509ade6929" width="1080px"  />
+   </div>
