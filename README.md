@@ -85,6 +85,9 @@
  
   </br>
  <h2 align="center"> ALUNOS 🎒 </h2>
+ <p align="center">Ao colcoar seu sua matricula e senha e fazer login na plataforma, o aluno poderá acessar os materiais de aulas matérias do colegio FUTURO BRILHANTE./p>
+</br>
+
  
   </br>
 <h3> LOGIN </h3>
@@ -118,6 +121,26 @@
       <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/83fbdbbb-f2d3-4dcc-9090-bdf21dd4c142" width="1080px" />
    </div>
 
+
+  </br>
+ <h2 align="center"> PROFESSORES 👩‍🏫 </h2>
+ <p align="center">Ao colcoar seu sua matricula e senha e fazer login na plataforma, o aluno poderá acessar os materiais de aulas matérias do colegio FUTURO BRILHANTE./p>
+</br>
+
+  </br>
+<h3> LOGIN </h3>
+
+<div align="center">
+      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/2957a59d-8089-4235-add8-307813ef3039" width="1080px"  />
+   </div>
+   
+ </br>
+<h3> AREA DO PROFESSOR(A) </h3>
+
+
+<div align="center">
+      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/c5ef49e8-5bc6-4b05-ba2b-90b9ed092f4f" width="1080px"  />
+   </div>
 
 
 
