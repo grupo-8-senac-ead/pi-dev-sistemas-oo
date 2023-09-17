@@ -141,15 +141,9 @@
    </div>
 
  </br>
-<h3> AREA DO PROFESSOR(A) </h3>
-<div align="center">
-      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/7e44af3b-5452-4da0-90f9-1c05dab60a70" width="1080px"  />
-   </div>
-
- </br>
 <h3> NOTAS E FREQUENCIAS ALUNOS </h3>
 <div align="center">
-      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/32a9f8d0-ebb1-4698-bb0c-893b655e5a38" width="1080px"  />
+      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/7e44af3b-5452-4da0-90f9-1c05dab60a70" width="1080px"  />
    </div>
 
 
