@@ -93,9 +93,9 @@
    </div>
 
   </br>
- <h2 > Introdução </h2>
+ <h3> AREA DO ALUNO </h3>
 <div align="center">
-      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/90aa5e72-aec4-4373-bd29-85ad63132f63" width="1080px" />
+      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/9f2fa633-1308-40df-955e-de4fb787a2f4" width="1080px" />
    </div>
 
 
