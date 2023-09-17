@@ -110,6 +110,13 @@
       <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/0149a587-dbca-484b-b586-b6ecc843fd66" width="1080px" />
    </div>
 
+ </br>
+
+<h3>SUPORTE </h3>
+
+<div align="center">
+      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/83fbdbbb-f2d3-4dcc-9090-bdf21dd4c142" width="1080px" />
+   </div>
 
 
 
