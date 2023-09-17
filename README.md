@@ -98,4 +98,22 @@
       <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/9f2fa633-1308-40df-955e-de4fb787a2f4" width="1080px" />
    </div>
 
+  </br>
+ <h3> ASSISTIR AULAS </h3>
+<div align="center">
+      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/d2412a72-068a-452d-8c8b-cf92c9eb021d" width="1080px" />
+   </div>
 
+ </br>
+<h3>NOTAS E FREQUENCIA </h3>
+<div align="center">
+      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/0149a587-dbca-484b-b586-b6ecc843fd66" width="1080px" />
+   </div>
+
+
+
+
+
+
+
+   
