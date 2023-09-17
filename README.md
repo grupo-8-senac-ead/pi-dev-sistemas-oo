@@ -85,7 +85,7 @@
  
   </br>
  <h2 align="center"> ALUNOS 🎒 </h2>
- <p align="center">Ao colcoar seu sua matricula e senha e fazer login na plataforma, o aluno poderá acessar os materiais de aulas matérias do colegio FUTURO BRILHANTE./p>
+ <p align="center">Ao fazer login na plataforma, o aluno poderá acessar os materiais de aulas matérias do colegio e suas respectivas notas no colegio FUTURO BRILHANTE.</p>
 </br>
 
  
@@ -124,7 +124,7 @@
 
   </br>
  <h2 align="center"> PROFESSORES 👩‍🏫 </h2>
- <p align="center">Ao colcoar seu sua matricula e senha e fazer login na plataforma, o aluno poderá acessar os materiais de aulas matérias do colegio FUTURO BRILHANTE./p>
+ <p align="center">Ao login na plataforma, o professor(a) poderá acessar aos registros de sala e alunos dessa sala e também poderar acompanhar a frenquencia e dar notas as provas pela plataforma do colegio FUTURO BRILHANTE.</p>
 </br>
 
   </br>
@@ -136,12 +136,15 @@
    
  </br>
 <h3> AREA DO PROFESSOR(A) </h3>
-
-
 <div align="center">
       <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/c5ef49e8-5bc6-4b05-ba2b-90b9ed092f4f" width="1080px"  />
    </div>
 
+ </br>
+<h3> AREA DO PROFESSOR(A) </h3>
+<div align="center">
+      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/7e44af3b-5452-4da0-90f9-1c05dab60a70" width="1080px"  />
+   </div>
 
 
 
