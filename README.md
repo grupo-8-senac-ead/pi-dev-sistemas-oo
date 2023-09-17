@@ -87,8 +87,9 @@
  <h2 align="center"> ALUNOS 🎒 </h2>
  
   </br>
+<h3> LOGIN </h3>
 <div align="center">
-      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/dfcbaab3-b6b3-44ec-bc8c-3166bc6386eb" width="1080px"  />
+      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/cd0f65db-e8e6-47fd-8b33-60ee551db3f0" width="1080px"  />
    </div>
 
   </br>
