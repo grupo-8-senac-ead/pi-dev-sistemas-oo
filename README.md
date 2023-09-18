@@ -13,7 +13,7 @@
 <p align="center" >Nome da escola: <b> COLÉGIO FUTURO BRILHANTE</b></p>
 
 <h2 > Introdução </h2>
-<p>Nesta segunda fase do projeto, o objetivo foi a criação de um protótipo de sistema de cadastro, tendo como base os diagramas de caso de uso e o diagrama de classes que foram desenvolvidos na primeira etapa do trabalho. Para realizar esta etapa, utilizamos a ferramenta Figma, uma aplicação web amplamente utilizada para o design de interfaces. O projeto desenvolvido tem como objetivo apresentar o layout e demonstrar como algumas funcionalidades do projeto que devem ser desenvolvidas, tornando-as mais compreensíveis por meio de uma interface de usuário amigável. Isso complementa e aprofunda as informações fornecidas na primeira parte do trabalho, fornecendo uma visualização prática e interativa do sistema em desenvolvimento. Este processo visa tornar mais acessível e tangível as funcionalidades e a aparência do sistema, proporcionando uma compreensão mais clara e facilitada para os envolvidos no projeto, incluindo os desenvolvedores, os usuários finais</p>
+<p>Nesta segunda fase do projeto, o objetivo foi a criação de um protótipo de sistema de cadastro, tendo como base os diagramas de caso de uso e o diagrama de classes que foram desenvolvidos na primeira etapa do trabalho. Para realizar esta etapa, utilizamos a ferramenta Figma, uma aplicação web amplamente utilizada para o design de interfaces. O projeto desenvolvido tem como objetivo apresentar o layout e demonstrar como algumas funcionalidades do projeto que devem ser desenvolvidas, tornando-as mais compreensíveis por meio de uma interface de usuário amigável. Isso complementa e aprofunda as informações fornecidas na primeira parte do trabalho, fornecendo uma visualização prática e interativa do sistema em desenvolvimento. Este processo visa tornar mais acessível e tangível as funcionalidades e a aparência do sistema, proporcionando uma compreensão mais clara e facilitada para os envolvidos no projeto, incluindo os desenvolvedores, os usuários finais.</p>
 </br>
 
 <h2 align="center" ><b> LINKS DOS PROTOTIPOS </b></h2>
@@ -94,7 +94,7 @@
  
   </br>
  <h2 align="center"> ALUNOS 🎒 </h2>
- <p align="center">Ao fazer login na plataforma, o aluno poderá acessar os materiais de aulas, as matérias do colégio e suas respectivas notas no Colégio FUTURO BRILHANTE.</p>
+ <p align="center">Ao fazer login na plataforma, o aluno poderá acessar os materiais de aulas, as matérias do colégio e suas respectivas notas no Colégio "FUTURO BRILHANTE".</p>
 </br>
 
  
