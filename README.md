@@ -23,6 +23,7 @@
          <a href="https://www.figma.com/file/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR---ESCOLA?type=design&node-id=0%3A1&mode=design&t=aClYvUOCDbm7kTYe-1">
             FIGMA ESTÁVEL 🖼️
          </a>
+        </br>
         <a href="https://www.figma.com/proto/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR---ESCOLA?type=design&node-id=56-7&t=YVtgdHI55OL8M9vL-1&scaling=contain&page-id=0%3A1&starting-point-node-id=56%3A7&show-proto-               sidebar=1&mode=design">
              FIGMA NAVEGÁVEL💻
         </a>
