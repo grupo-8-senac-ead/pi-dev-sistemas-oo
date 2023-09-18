@@ -156,3 +156,11 @@
 <div align="center">
       <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/e3db215e-5ad0-4d3a-b4cf-7f509ade6929" width="1080px"  />
    </div>
+
+ </br>
+<h3> AREA ADMINISTRATIVA </h3>
+<div align="center">
+      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/3f61cf06-0a1b-40d1-8ac2-fd7c6e0efdb5" width="1080px"  />
+   </div>
+
+
