@@ -19,7 +19,7 @@
 <p ><b> PROTOTIPOS : </b></p>
 
 <div align="center">
-    <div  style="display: flex;">
+    <div  style="display: flex; margin: 60px 0;">
          <a href="https://www.figma.com/file/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR---ESCOLA?type=design&node-id=0%3A1&mode=design&t=aClYvUOCDbm7kTYe-1">
              <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/b2049e2d-0c2e-4c70-bb76-5150fb064cf5"width="200px"  />
          </a>
