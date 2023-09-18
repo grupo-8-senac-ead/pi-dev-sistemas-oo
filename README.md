@@ -1,6 +1,6 @@
 <h1 align="center">Grupo 8 - Trabalho de Projeto Integrador</h1>
 
-<p>Grupo conposto por:</p>
+<p>Grupo composto por:</p>
 
     - DAVID NECKEL DOS SANTOS
     - HENRIQUE GRIGOLETTI SANTOS
@@ -67,14 +67,14 @@
     3.	Pessoa do jurídico faz recebimento do pagamento.
     4.	Aluno compra material do fornecedor para aula.
     5.	Professor ministra aula para aluno.
-    6.	Aluno assiste a aula do professor.</p>
+    6.	Aluno assiste a aula do professor.
 
 <h3>Cenários Alternativos:</h3>
  
     A1: Caso aluno não tenha o material:
     O professor disponibiliza o conteúdo da aula sem a prática.
     Aluno assiste aula sem fazer a prática.
-    Professor marca outra data para o aluno fazer a prática.7
+    Professor marca outra data para o aluno fazer a prática.
 
     A2: Caso aluno não tenha conteúdo da aula disponibilizado
     Aluno deve entrar em contato com o professor, explicando a falta de disponibilidade.
