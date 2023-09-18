@@ -24,7 +24,7 @@
             FIGMA ESTÁVEL 🖼️
          </a>
         <a href="https://www.figma.com/proto/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR---ESCOLA?type=design&node-id=56-7&t=YVtgdHI55OL8M9vL-1&scaling=contain&page-id=0%3A1&starting-point-node-id=56%3A7&show-proto-               sidebar=1&mode=design">
-             <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/0783c257-f830-4fa5-9c4a-fc67fa165f56"width="200px"  />
+             FIGMA NAVEGÁVEL💻
         </a>
     </div>
 </div>
