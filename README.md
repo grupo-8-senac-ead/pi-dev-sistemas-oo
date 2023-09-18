@@ -85,7 +85,7 @@
  
   </br>
  <h2 align="center"> ALUNOS 🎒 </h2>
- <p align="center">Ao fazer login na plataforma, o aluno poderá acessar os materiais de aulas matérias do colegio e suas respectivas notas no colegio FUTURO BRILHANTE.</p>
+ <p align="center">Ao fazer login na plataforma, o aluno poderá acessar os materiais de aulas, as matérias do colégio e suas respectivas notas no Colégio FUTURO BRILHANTE.</p>
 </br>
 
  
@@ -124,7 +124,8 @@
 
   </br>
  <h2 align="center"> PROFESSORES 👩‍🏫 </h2>
- <p align="center">Ao login na plataforma, o professor(a) poderá acessar aos registros de sala e alunos dessa sala e também poderar acompanhar a frenquencia e dar notas as provas pela plataforma do colegio FUTURO BRILHANTE.</p>
+ <p align="center">
+Ao fazer login na plataforma, o professor(a) poderá acessar os registros das salas e dos alunos dessa sala, além de poder acompanhar a frequência e atribuir notas às provas por meio da plataforma do Colégio FUTURO BRILHANTE.</p>
 </br>
 
   </br>
@@ -148,7 +149,7 @@
 
  </br>
  <h2 align="center"> GESTÃO 🏫</h2>
- <p align="center">Ao FAZER login na plataforma, o COLABORADOR poderá acessar aos registros de sala e alunos, professores e fornecedores, pode tambem cadasatrar novos fornecedores, professores e alunos no colegio FUTURO BRILHANTE.</p>
+ <p align="center">Ao fazer login na plataforma, o colaborador poderá acessar os registros das salas, alunos, professores e fornecedores. Além disso, poderá cadastrar novos fornecedores, professores e alunos no Colégio FUTURO BRILHANTE.</p>
 </br>
 
  </br>
