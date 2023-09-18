@@ -17,9 +17,13 @@
 </br>
 
 <p ><b> PROTOTIPOS : </b></p>
- <a href="https://www.figma.com/file/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR---ESCOLA?type=design&node-id=0%3A1&mode=design&t=aClYvUOCDbm7kTYe-1">FIGMA TELAS</a>
- </br>
- <a href="https://www.figma.com/proto/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR---ESCOLA?type=design&node-id=56-7&t=YVtgdHI55OL8M9vL-1&scaling=contain&page-id=0%3A1&starting-point-node-id=56%3A7&show-proto-sidebar=1&mode=design">FIGMA NAVEGAVEL</a>
+<div align="center">
+     <a href="https://www.figma.com/file/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR---ESCOLA?type=design&node-id=0%3A1&mode=design&t=aClYvUOCDbm7kTYe-1">
+         <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/60b5e371-6bbb-464f-8c5d-2494a9c3454d](https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/f5eac78d-5012-48f8-8fb0-5ca0de3083f3"width="600px"  />
+     </a>
+     </br>
+    <a href="https://www.figma.com/proto/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR---ESCOLA?type=design&node-id=56-7&t=YVtgdHI55OL8M9vL-1&scaling=contain&page-id=0%3A1&starting-point-node-id=56%3A7&show-proto-sidebar=1&mode=design">FIGMA NAVEGAVEL</a>
+ </div>
 </br>
 <h1 align="center">DIAGRAMA DE CASO DE USO</h1>
 
