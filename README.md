@@ -220,4 +220,8 @@ Ao fazer login na plataforma, o professor(a) poderá acessar os registros das sa
  <div align="center">
       <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/e8a6de1c-3c8f-4228-be88-c04fe70ab3d3" width="1080px"  />
    </div>
-   
+
+<h2 > Conclusão </h2>
+<p>O trabalho apresentado demonstra claramente duas questões fundamentais na compreensão de um problema e na projeção de um produto de software através da lente da engenharia de software. Iniciamos descrevendo um problema e compreendendo suas ramificações, em um sistema de gestão de um centro universitário, quais atores envolvidos, quais seus comportamentos e interações.
+Passamos então para uma melhor descrição destas tarefas, adicionando alguns cenários alternativos e concluindo com um modelo de classes, onde os objetos do sistema e suas associações são detalhadas. Vale adicionar o comentário que esta forma visual abraça uma das maiores qualidades da programação orientada a objetos, na figura 2 conseguimos perceber que alguns dados são privados e protegidos dentro dos objetos, sendo acessíveis por seus métodos, este princípio é conhecido como encapsulamento.</p>
+</br>
