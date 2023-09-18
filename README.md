@@ -18,15 +18,16 @@
 
 <p ><b> PROTOTIPOS : </b></p>
 
-<div align="center" style="display: flex">
-     <a href="https://www.figma.com/file/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR---ESCOLA?type=design&node-id=0%3A1&mode=design&t=aClYvUOCDbm7kTYe-1">
-         <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/b2049e2d-0c2e-4c70-bb76-5150fb064cf5"width="200px"  />
-     </a>
-     </br>
-    <a href="https://www.figma.com/proto/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR---ESCOLA?type=design&node-id=56-7&t=YVtgdHI55OL8M9vL-1&scaling=contain&page-id=0%3A1&starting-point-node-id=56%3A7&show-proto-sidebar=1&mode=design">
-         <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/0783c257-f830-4fa5-9c4a-fc67fa165f56"width="200px"  />
-    </a>
- </div>
+<div align="center">
+    <div  style="display: flex;">
+         <a href="https://www.figma.com/file/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR---ESCOLA?type=design&node-id=0%3A1&mode=design&t=aClYvUOCDbm7kTYe-1">
+             <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/b2049e2d-0c2e-4c70-bb76-5150fb064cf5"width="200px"  />
+         </a>
+        <a href="https://www.figma.com/proto/Trb0ehs1cwYXuRedZLfJTd/PROJETO-INTEGRADOR---ESCOLA?type=design&node-id=56-7&t=YVtgdHI55OL8M9vL-1&scaling=contain&page-id=0%3A1&starting-point-node-id=56%3A7&show-proto-sidebar=1&mode=design">
+             <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/0783c257-f830-4fa5-9c4a-fc67fa165f56"width="200px"  />
+        </a>
+    </div>
+</div>
 </br>
 <h1 align="center">DIAGRAMA DE CASO DE USO</h1>
 
