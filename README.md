@@ -162,5 +162,16 @@
 <div align="center">
       <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/3f61cf06-0a1b-40d1-8ac2-fd7c6e0efdb5" width="1080px"  />
    </div>
+   
+</br>
+ <h3>GESTÃO - ALUNOS CADASTRO</h3>
+ <div align="center">
+      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/0eb071f6-8844-4c40-8cc6-4ad861d7dde8" width="1080px"  />
+   </div>
 
+</br>
+ <h3>GESTÃO - ALUNOS LISTA</h3>
+ <div align="center">
+      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/2645994b-1147-4479-8fdb-342752e0ca86" width="1080px"  />
+   </div>
 
