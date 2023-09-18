@@ -175,3 +175,39 @@
       <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/2645994b-1147-4479-8fdb-342752e0ca86" width="1080px"  />
    </div>
 
+</br>
+ <h3>GESTÃO - PROFESSORES CADASTRO</h3>
+ <div align="center">
+      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/67363e7c-6521-4676-b615-c43eca56f24a" width="1080px"  />
+   </div>
+
+</br>
+ <h3>GESTÃO - PROFESSORES LISTA</h3>
+ <div align="center">
+      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/67363e7c-6521-4676-b615-c43eca56f24a" width="1080px"  />
+   </div>
+
+</br>
+ <h3>GESTÃO - FORNECEDORES CADASTRO</h3>
+ <div align="center">
+      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/6a3eb1f9-f196-4e90-a9ef-4ae29eb3bc88" width="1080px"  />
+   </div>
+
+</br>
+ <h3>GESTÃO - FORNECEDORES CADASTRO</h3>
+ <div align="center">
+      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/37174c84-aa13-4e2e-9f69-87ff921b268b" width="1080px"  />
+   </div>
+
+</br>
+ <h3>GESTÃO - MODAL CADASTRADO COM SUCESSO</h3>
+ <div align="center">
+      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/e3e1b62e-41d7-4deb-a165-002f0d4483f9" width="1080px"  />
+   </div>
+
+</br>
+ <h3>GESTÃO - MODAL ERRO CAMPOS OBRIGATORIOS</h3>
+ <div align="center">
+      <img src="https://github.com/grupo-8-senac-ead/pi-dev-sistemas-oo/assets/78884474/e8a6de1c-3c8f-4228-be88-c04fe70ab3d3" width="1080px"  />
+   </div>
+   
